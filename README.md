@@ -24,6 +24,11 @@ Solutions are organized by difficulty level. Below is a list of available Katas:
 - **[Flick Switch](lib/7kyu/flick_switch.dart)**: Toggle a boolean value based on "flick" occurrences in a list.
   - *Example*: `["codewars", "flick", "code"]` → `[true, false, false]`
 
+- **[Largest 5 Digit Number](lib/7kyu/largest_five_digit_number.dart)**: Find the largest 5-digit number from consecutive digits in a string.
+  - *Example*: `"1234567890" → 67890`
+
+*More Katas coming soon!*
+
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
