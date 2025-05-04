@@ -27,6 +27,11 @@ Solutions are organized by difficulty level. Below is a list of available Katas:
 - **[Largest 5 Digit Number](lib/7kyu/largest_five_digit_number.dart)**: Find the largest 5-digit number from consecutive digits in a string.
   - *Example*: `"1234567890" → 67890`
 
+### 8kyu
+
+- **[Sentence Smash](lib/8kyu/sentence_smash.dart)**: Join a list of words into a single string with spaces.
+  - *Example*: `["hello", "world"]` → `"hello world"`
+
 *More Katas coming soon!*
 
 ## 📜 License
