@@ -32,6 +32,9 @@ Solutions are organized by difficulty level. Below is a list of available Katas:
 - **[Sentence Smash](lib/8kyu/sentence_smash.dart)**: Join a list of words into a single string with spaces.
   - *Example*: `["hello", "world"]` → `"hello world"`
 
+- **[Find the Smallest Integer](lib/8kyu/find_the_smallest_integer_in_the_array.dart)**: Find the smallest integer in a list of integers.
+  - *Example*: `[78, 56, 232, 12, 8]` → `8`
+
 *More Katas coming soon!*
 
 ## 📜 License
