@@ -34,6 +34,8 @@ Solutions are organized by difficulty level. Below is a list of available Katas:
 
 - **[Find the Smallest Integer](lib/8kyu/find_the_smallest_integer_in_the_array.dart)**: Find the smallest integer in a list of integers.
   - *Example*: `[78, 56, 232, 12, 8]` → `8`
+- **[Find Maximum and Minimum Values](lib/8kyu/find_maximum_and_minimum_values_of_a_list.dart)**: Find the smallest and largest integers in a list.
+  - *Example*: `[4, 6, 2, 1, 9, 63, -134, 566]` → `min: -134, max: 566`
 
 *More Katas coming soon!*
 
