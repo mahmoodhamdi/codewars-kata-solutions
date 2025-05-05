@@ -36,7 +36,8 @@ Solutions are organized by difficulty level. Below is a list of available Katas:
   - *Example*: `[78, 56, 232, 12, 8]` → `8`
 - **[Find Maximum and Minimum Values](lib/8kyu/find_maximum_and_minimum_values_of_a_list.dart)**: Find the smallest and largest integers in a list.
   - *Example*: `[4, 6, 2, 1, 9, 63, -134, 566]` → `min: -134, max: 566`
-
+- **[Clock Past](lib/8kyu/clock_past.dart)**: Convert time (hours, minutes, seconds) to milliseconds past midnight.
+  - *Example*: `h=0, m=1, s=1` → `61000`
 *More Katas coming soon!*
 
 ## 📜 License
