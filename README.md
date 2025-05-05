@@ -1,54 +1,40 @@
 # CodeWars Kata Solutions
 
-Welcome to my collection of **CodeWars Kata** solutions, written in **Dart**! This repository showcases my problem-solving skills through a variety of coding challenges, organized by difficulty level.
+A collection of **CodeWars Kata** solutions written in **Dart**, showcasing problem-solving skills through coding challenges organized by difficulty level.
 
-[![CodeWars Profile](https://img.shields.io/badge/CodeWars-Profile-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/mahmoodhamdi)
+[![CodeWars Profile](https://img.shields.io/badge/CodeWars-mahmoodhamdi-red?style=flat-square&logo=codewars)](https://www.codewars.com/users/mahmoodhamdi)
 [![Dart](https://img.shields.io/badge/Language-Dart-blue?style=flat-square&logo=dart)](https://dart.dev/)
-
-## 📖 About
-
-This repository contains solutions to various [CodeWars](https://www.codewars.com/) Kata challenges. Each solution is:
-
-- Written in **Dart** for clean and efficient code.
-- Organized in directories named after the Kata.
-- Grouped by difficulty level (kyu) for easy navigation.
-
-Whether you're learning Dart, preparing for coding interviews, or just love solving puzzles, feel free to explore, learn, and contribute!
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 
 ## 🗂️ Solutions
 
-Solutions are organized by difficulty level. Below is a list of available Katas:
-
-### 7kyu
-
-- **[Flick Switch](lib/7kyu/flick_switch.dart)**: Toggle a boolean value based on "flick" occurrences in a list.
-  - *Example*: `["codewars", "flick", "code"]` → `[true, false, false]`
-
-- **[Largest 5 Digit Number](lib/7kyu/largest_five_digit_number.dart)**: Find the largest 5-digit number from consecutive digits in a string.
-  - *Example*: `"1234567890" → 67890`
+Solutions are grouped by difficulty level (kyu) in directories named after each Kata.
 
 ### 8kyu
 
 - **[Sentence Smash](lib/8kyu/sentence_smash.dart)**: Join a list of words into a single string with spaces.
-  - *Example*: `["hello", "world"]` → `"hello world"`
-
 - **[Find the Smallest Integer](lib/8kyu/find_the_smallest_integer_in_the_array.dart)**: Find the smallest integer in a list of integers.
-  - *Example*: `[78, 56, 232, 12, 8]` → `8`
 - **[Find Maximum and Minimum Values](lib/8kyu/find_maximum_and_minimum_values_of_a_list.dart)**: Find the smallest and largest integers in a list.
-  - *Example*: `[4, 6, 2, 1, 9, 63, -134, 566]` → `min: -134, max: 566`
 - **[Clock Past](lib/8kyu/clock_past.dart)**: Convert time (hours, minutes, seconds) to milliseconds past midnight.
-  - *Example*: `h=0, m=1, s=1` → `61000`
+
+### 7kyu
+
+- **[Flick Switch](lib/7kyu/flick_switch.dart)**: Toggle a boolean value based on "flick" occurrences in a list.
+- **[Largest 5 Digit Number](lib/7kyu/largest_five_digit_number.dart)**: Find the largest 5-digit number from consecutive digits in a string.
+
 *More Katas coming soon!*
+
+## 📖 About
+
+This repository contains solutions to [CodeWars](https://www.codewars.com/) challenges, written in **Dart** for clean, efficient code. It’s perfect for learning Dart, preparing for interviews, or enjoying coding puzzles. Each solution includes comments and test cases.
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+Licensed under the [MIT License](LICENSE).
 
 ## 🙌 Acknowledgments
 
-- Thanks to [CodeWars](https://www.codewars.com/) for providing a fun platform to hone coding skills.
+- [CodeWars](https://www.codewars.com/) for a great platform.
 - Built with ❤️ using [Dart](https://dart.dev/).
 
----
-
-*Happy coding! If you find this repo helpful, give it a ⭐!*
+*Happy coding! Give a ⭐ if you find this helpful!*
