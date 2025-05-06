@@ -22,6 +22,10 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Flick Switch](lib/7kyu/flick_switch.dart)**: Toggle a boolean value based on "flick" occurrences in a list.
 - **[Largest 5 Digit Number](lib/7kyu/largest_five_digit_number.dart)**: Find the largest 5-digit number from consecutive digits in a string.
 
+### 6kyu
+
+- **[Split Strings](lib/6kyu/split_strings.dart)**: Split a string into pairs of characters, adding '_' to the last if odd length.
+
 *More Katas coming soon!*
 
 ## 📖 About
