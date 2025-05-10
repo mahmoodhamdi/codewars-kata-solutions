@@ -16,6 +16,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Find the Smallest Integer](lib/8kyu/find_the_smallest_integer_in_the_array.dart)**: Find the smallest integer in a list of integers.
 - **[Find Maximum and Minimum Values](lib/8kyu/find_maximum_and_minimum_values_of_a_list.dart)**: Find the smallest and largest integers in a list.
 - **[Clock Past](lib/8kyu/clock_past.dart)**: Convert time (hours, minutes, seconds) to milliseconds past midnight.
+- **[Even or Odd](lib/8kyu/even_or_odd.dart)**: Determine if a number is even or odd.
 
 ### 7kyu
 
