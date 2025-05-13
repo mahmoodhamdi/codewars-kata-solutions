@@ -18,6 +18,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Clock Past](lib/8kyu/clock_past.dart)**: Convert time (hours, minutes, seconds) to milliseconds past midnight.
 - **[Even or Odd](lib/8kyu/even_or_odd.dart)**: Determine if a number is even or odd.
 - **[Quarter of the year](lib/8kyu/quarter_of_the_year.dart)**: Determine the quarter for a given month.
+- **[Convert a String to a Number](lib/8kyu/convert_a_string_to_a_number!.dart)**: Convert a string to an integer.
 
 ### 7kyu
 
