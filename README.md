@@ -20,6 +20,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Quarter of the year](lib/8kyu/quarter_of_the_year.dart)**: Determine the quarter for a given month.
 - **[Convert a String to a Number](lib/8kyu/convert_a_string_to_a_number!.dart)**: Convert a string to an integer.
 - **[Convert a Number to a String](lib/8kyu/convert_a_number_to_a_string.dart)**: Convert an integer to a string.
+- **[Counting Sheep](lib/8kyu/counting_sheep.dart)**: Count the number of true values in a list.
 
 ### 7kyu
 
