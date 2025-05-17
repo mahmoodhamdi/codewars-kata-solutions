@@ -21,6 +21,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Convert a String to a Number](lib/8kyu/convert_a_string_to_a_number!.dart)**: Convert a string to an integer.
 - **[Convert a Number to a String](lib/8kyu/convert_a_number_to_a_string.dart)**: Convert an integer to a string.
 - **[Counting Sheep](lib/8kyu/counting_sheep.dart)**: Count the number of true values in a list.
+- **[Reserved Sequence](lib/8kyu/reversed_sequence.dart)**: Create a function that returns an array of integers from n to 1.
 
 ### 7kyu
 
@@ -31,6 +32,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 ### 6kyu
 
 - **[Split Strings](lib/6kyu/split_strings.dart)**: Split a string into pairs of characters, adding '_' to the last if odd length.
+- **[Who likes it?](lib/6kyu/who_likes_it.dart)**: Determine who likes a post based on the number of names.
 
 *More Katas coming soon!*
 
