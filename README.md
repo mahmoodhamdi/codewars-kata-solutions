@@ -33,6 +33,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 
 - **[Split Strings](lib/6kyu/split_strings.dart)**: Split a string into pairs of characters, adding '_' to the last if odd length.
 - **[Who likes it?](lib/6kyu/who_likes_it.dart)**: Determine who likes a post based on the number of names.
+- **[Valid Braces](lib/6kyu/valid_braces.dart)**: Determine if a string contains valid matching parentheses.
 
 *More Katas coming soon!*
 
