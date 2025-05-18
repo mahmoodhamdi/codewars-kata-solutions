@@ -35,6 +35,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Who likes it?](lib/6kyu/who_likes_it.dart)**: Determine who likes a post based on the number of names.
 - **[Valid Braces](lib/6kyu/valid_braces.dart)**: Determine if a string contains valid matching parentheses.
 - **[Bonuses](lib/6kyu/bonuses.dart)**: fair bonuses of all employees in the same order as their numbers of days of absences.
+- **[Roman Numerals Decoder](lib/6kyu/roman_numerals_decoder.dart)**: Decode a Roman numeral string into an integer.
 
 *More Katas coming soon!*
 
