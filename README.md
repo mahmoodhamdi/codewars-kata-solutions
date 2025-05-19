@@ -22,6 +22,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Convert a Number to a String](lib/8kyu/convert_a_number_to_a_string.dart)**: Convert an integer to a string.
 - **[Counting Sheep](lib/8kyu/counting_sheep.dart)**: Count the number of true values in a list.
 - **[Reserved Sequence](lib/8kyu/reversed_sequence.dart)**: Create a function that returns an array of integers from n to 1.
+- **[Reversed Strings](lib/8kyu/reversed_strings.dart)**: Reverse a string.
 
 ### 7kyu
 
