@@ -23,6 +23,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Counting Sheep](lib/8kyu/counting_sheep.dart)**: Count the number of true values in a list.
 - **[Reserved Sequence](lib/8kyu/reversed_sequence.dart)**: Create a function that returns an array of integers from n to 1.
 - **[Reversed Strings](lib/8kyu/reversed_strings.dart)**: Reverse a string.
+- **[Opposite number](lib/8kyu/opposite_number.dart)**: Return the opposite of a number.
 
 ### 7kyu
 
