@@ -33,6 +33,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Largest 5 Digit Number](lib/7kyu/largest_five_digit_number.dart)**: Find the largest 5-digit number from consecutive digits in a string.
 - **[Highest and Lowest](lib/7kyu/highest_and_lowest.dart)**: Find the highest and lowest numbers in a string of space-separated numbers.
 - **[Sum of odd numbers](lib/7kyu/sum_of_odd_numbers.dart)**: Calculate the sum of the numbers in the nth row of this triangle (starting at index 1).
+- **[Vowel Count](lib/7kyu/vowel_count.dart)**: Count the number of vowels in a string.
 
 ### 6kyu
 
