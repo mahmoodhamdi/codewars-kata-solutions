@@ -26,6 +26,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Opposite number](lib/8kyu/opposite_number.dart)**: Return the opposite of a number.
 - **[Sum without highest and lowest numbers](lib/8kyu/sum_without_highest_and_lowest_number.dart)**: Calculate the sum of numbers excluding the highest and lowest.
 - **[Remove String Spaces](lib/8kyu/remove_string_spaces.dart)**: Remove spaces from a string.
+- **[Square(n) Sum](lib/8kyu/square_n_sum.dart)**: Calculate the sum of squares of numbers in a list.
 
 ### 7kyu
 
