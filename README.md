@@ -27,6 +27,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Sum without highest and lowest numbers](lib/8kyu/sum_without_highest_and_lowest_number.dart)**: Calculate the sum of numbers excluding the highest and lowest.
 - **[Remove String Spaces](lib/8kyu/remove_string_spaces.dart)**: Remove spaces from a string.
 - **[Square(n) Sum](lib/8kyu/square_n_sum.dart)**: Calculate the sum of squares of numbers in a list.
+- *[Bin to Decimal](lib/8kyu/bin_to_decimal.dart)*: Convert a binary string to a decimal number.
 
 ### 7kyu
 
