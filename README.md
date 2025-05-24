@@ -48,6 +48,10 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Build a pile of Cubes](lib/6kyu/build_a_pile_of_cubes.dart)**: Calculate the number of cubes needed to build a pile of cubes with a given volume.
 - **[Alex & snooker: points earned.](lib/6kyu/alex_and_snooker_points.dart)**: Calculate the points earned in a snooker game based on the number of balls potted.
 
+### 5kyu
+
+- **[Josephus Permutation](lib/5kyu/josephus_permutation.dart)**: Solve the Josephus problem by finding the last person remaining after eliminating every k-th person in a circle.
+  
 ### 4kyu
 
 - **[Sum of Intervals](lib/4kyu/sum_of_intervals.dart)**: Calculate the sum of all intervals in a list, avoiding overlaps.
