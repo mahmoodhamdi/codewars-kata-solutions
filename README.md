@@ -53,6 +53,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 
 - **[Josephus Permutation](lib/5kyu/josephus_permutation.dart)**: Solve the Josephus problem by finding the last person remaining after eliminating every k-th person in a circle.
 - **[Perimeter of squares in a rectangle](lib/5kyu/perimeter_of_squares_in_a_rectangle.dart)**: Calculate the perimeter of squares that can fit inside a rectangle with given dimensions(fibonacci).
+- **[RGB To Hex Conversion](lib/5kyu/rgb_to_hex_conversion.dart)**: Convert an RGB color to a hexadecimal color.
   
 ### 4kyu
 
