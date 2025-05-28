@@ -59,6 +59,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 ### 4kyu
 
 - **[Sum of Intervals](lib/4kyu/sum_of_intervals.dart)**: Calculate the sum of all intervals in a list, avoiding overlaps.
+- **[Human readable duration format](lib/4kyu/human_readable_duration_format.dart)**: Convert a duration in seconds to a human-readable format (e.g., "1 hour, 2 minutes, 3 seconds").
 
 *More Katas coming soon!*
 
