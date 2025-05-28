@@ -38,6 +38,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Vowel Count](lib/7kyu/vowel_count.dart)**: Count the number of vowels in a string.
 - **[Get the Middle Character](lib/7kyu/get_the_middle_character.dart)**: Get the middle character(s) of a string.
 - **[Mumbling](lib/7kyu/mumbling.dart)**: Create a string where each character is repeated according to its index.
+- **[Indexed capitalization](lib/7kyu/indexed_capitalization.dart)**: Given a string and an array of integers representing indices, capitalize all letters at the given indices.
 
 ### 6kyu
 
