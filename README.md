@@ -61,6 +61,10 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 
 - **[Sum of Intervals](lib/4kyu/sum_of_intervals.dart)**: Calculate the sum of all intervals in a list, avoiding overlaps.
 - **[Human readable duration format](lib/4kyu/human_readable_duration_format.dart)**: Convert a duration in seconds to a human-readable format (e.g., "1 hour, 2 minutes, 3 seconds").
+  
+### 3kyu
+
+- **[Total area covered by rectangles](lib/3kyu/total_area_covered_by_rectangles.dart)**: Calculate the total area covered by a list of rectangles, accounting for overlaps.
 
 *More Katas coming soon!*
 
