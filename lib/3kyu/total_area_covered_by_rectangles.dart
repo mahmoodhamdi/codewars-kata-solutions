@@ -78,8 +78,6 @@ class Event implements Comparable<Event> {
 }
 
 
-
-
 void main() {
   var rectangles = [
     [3, 3, 8, 5], // Area 10

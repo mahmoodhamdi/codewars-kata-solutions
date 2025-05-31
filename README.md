@@ -49,6 +49,7 @@ Solutions are grouped by difficulty level (kyu) in directories named after each 
 - **[Roman Numerals Decoder](lib/6kyu/roman_numerals_decoder.dart)**: Decode a Roman numeral string into an integer.
 - **[Build a pile of Cubes](lib/6kyu/build_a_pile_of_cubes.dart)**: Calculate the number of cubes needed to build a pile of cubes with a given volume.
 - **[Alex & snooker: points earned.](lib/6kyu/alex_and_snooker_points.dart)**: Calculate the points earned in a snooker game based on the number of balls potted.
+- **[Mexican Wave](lib/6kyu/mexican_wave.dart)**: Create a "wave" effect in a string by capitalizing each letter in turn.
 
 ### 5kyu
 
