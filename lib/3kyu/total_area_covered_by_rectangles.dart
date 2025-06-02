@@ -1,5 +1,3 @@
-import 'dart:collection';
-
 int calculate(List<List<int>> rectangles) {
   List<Event> events = [];
   if (rectangles.isEmpty) return 0;
@@ -77,7 +75,6 @@ class Event implements Comparable<Event> {
   }
 }
 
-
 void main() {
   var rectangles = [
     [3, 3, 8, 5], // Area 10
@@ -86,4 +83,3 @@ void main() {
   ];
   print(calculate(rectangles)); // Output: 36
 }
-
